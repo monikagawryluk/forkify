@@ -1,8 +1,9 @@
 # forkify
 
 Recipe application that allows users to:
-- search for recipes, 
-- upload own recipes, 
+
+- search for recipes,
+- upload own recipes,
 - add recipes to bookmarks,
 - automatically calculate the amount of ingredients for different number of servings.
 
